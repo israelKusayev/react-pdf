@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/renderer",
+  "name": "@react-pdf-18/renderer",
   "version": "3.0.0",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
