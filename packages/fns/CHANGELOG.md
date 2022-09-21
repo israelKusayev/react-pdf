@@ -1,4 +1,4 @@
-# @react-pdf/fns
+# @react-pdf-18/fns
 
 ## 2.0.0
 

@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { Page, Document, Link, View, Image } from '@react-pdf/renderer';
+import { Page, Document, Link, View, Image } from '@react-pdf-18/renderer';
 
 export default () => (
   <Document>

@@ -6,7 +6,7 @@ import {
   Text,
   Image,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@react-pdf-18/renderer';
 
 const styles = StyleSheet.create({
   body: {

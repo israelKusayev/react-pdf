@@ -8,7 +8,7 @@ import {
   SourceObject,
   HyphenationCallback,
   SVGPresentationAttributes,
-} from '@react-pdf/types';
+} from '@react-pdf-18/types';
 
 declare namespace ReactPDF {
   interface Styles {
@@ -500,7 +500,9 @@ declare namespace ReactPDF {
     document: React.ReactElement<DocumentProps>,
   ) => Promise<NodeJS.ReadableStream>;
 
-  const renderToString: (document: React.ReactElement<DocumentProps>) => Promise<string>;
+  const renderToString: (
+    document: React.ReactElement<DocumentProps>,
+  ) => Promise<string>;
 
   const renderToFile: (
     document: React.ReactElement<DocumentProps>,

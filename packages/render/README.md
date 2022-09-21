@@ -2,20 +2,21 @@
   <img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="280px">
 </p>
 
-# @react-pdf/render
+# @react-pdf-18/render
 
 > React-pdf render engine
 
 ## How to install
+
 ```sh
-yarn add @react-pdf/render
+yarn add @react-pdf-18/render
 ```
 
 ## How it works
 
 ```js
-const render = require('@react-pdf/render');
-const primitives = require('@react-pdf/primitives');
+const render = require('@react-pdf-18/render');
+const primitives = require('@react-pdf-18/primitives');
 
 const view = {
   type: primitives.View,
@@ -61,8 +62,8 @@ render.default(ctx, doc);
 
 This library exports a `render` function that takes two arguments:
 
-- *ctx*: This is the target context where the document is going to be rendered. React-pdf currently uses a [pdfkit](https://github.com/react-pdf/pdfkit) document as context, but it can target any other type of structure as long as it signature matches pdfkit API. In the future this will enable rendering documents into muliple formats in addition to PDF.
-- *node*: Document root node. A node is a nested structure that defines a single element in a document. They are defined by it's `type` and arguments.
+- _ctx_: This is the target context where the document is going to be rendered. React-pdf currently uses a [pdfkit](https://github.com/react-pdf/pdfkit) document as context, but it can target any other type of structure as long as it signature matches pdfkit API. In the future this will enable rendering documents into muliple formats in addition to PDF.
+- _node_: Document root node. A node is a nested structure that defines a single element in a document. They are defined by it's `type` and arguments.
 
 ## Node structure
 
@@ -74,7 +75,7 @@ Bare in mind this package does not handle any type of node positioning, inherita
 
 ### node.type
 
-Mandatory field specifiying the type of the particular node. The full list of types can be found and imported from `@react-pdf/primitives`
+Mandatory field specifiying the type of the particular node. The full list of types can be found and imported from `@react-pdf-18/primitives`
 
 ### node.box
 
@@ -123,8 +124,8 @@ Specific node params needed to render correctly ot behave like certain way. Spec
 
 ```js
 const fs = require('fs');
-const render = require('@react-pdf/render');
-const pdfkit = require('@react-pdf/pdfkit');
+const render = require('@react-pdf-18/render');
+const pdfkit = require('@react-pdf-18/pdfkit');
 
 const PDFDocument = pdfkit.default;
 

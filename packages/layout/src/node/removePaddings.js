@@ -1,4 +1,4 @@
-import { omit } from '@react-pdf/fns';
+import { omit } from '@react-pdf-18/fns';
 
 import setPadding from './setPadding';
 

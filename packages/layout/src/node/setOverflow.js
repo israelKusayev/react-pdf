@@ -1,5 +1,5 @@
-import Yoga from '@react-pdf/yoga';
-import { isNil } from '@react-pdf/fns';
+import Yoga from '@react-pdf-18/yoga';
+import { isNil } from '@react-pdf-18/fns';
 
 const OVERFLOW = {
   hidden: Yoga.OVERFLOW_HIDDEN,

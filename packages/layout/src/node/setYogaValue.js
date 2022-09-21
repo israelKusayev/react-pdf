@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-expressions */
-import Yoga from '@react-pdf/yoga';
-import { isNil, upperFirst, matchPercent } from '@react-pdf/fns';
+import Yoga from '@react-pdf-18/yoga';
+import { isNil, upperFirst, matchPercent } from '@react-pdf-18/fns';
 
 /**
  * Set generic yoga attribute to node's Yoga instance, handing `auto`, edges and percentage cases

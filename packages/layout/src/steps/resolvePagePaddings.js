@@ -1,4 +1,4 @@
-import { evolve, matchPercent } from '@react-pdf/fns';
+import { evolve, matchPercent } from '@react-pdf-18/fns';
 
 /*
  * Translates page percentage horizontal paddings in fixed ones

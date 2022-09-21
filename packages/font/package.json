@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/font",
+  "name": "@react-pdf-18/font",
   "version": "2.3.0",
   "license": "MIT",
   "description": "Register font and emoji source for react-pdf document",
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.4",
-    "@react-pdf/types": "^2.0.9",
+    "@react-pdf-18/types": "^2.0.9",
     "base64-to-uint8array": "^1.0.0",
     "cross-fetch": "^3.1.5",
     "fontkit": "^2.0.2",

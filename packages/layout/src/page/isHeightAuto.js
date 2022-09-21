@@ -1,4 +1,4 @@
-import { isNil } from '@react-pdf/fns';
+import { isNil } from '@react-pdf-18/fns';
 
 /**
  * Checks if page has auto height

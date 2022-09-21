@@ -1,4 +1,4 @@
-# @react-pdf/types
+# @react-pdf-18/types
 
 ## 2.1.0
 

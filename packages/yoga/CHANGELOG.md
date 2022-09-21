@@ -1,4 +1,4 @@
-# @react-pdf/yoga
+# @react-pdf-18/yoga
 
 ## 3.0.0
 

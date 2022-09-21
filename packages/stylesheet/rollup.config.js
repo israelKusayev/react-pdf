@@ -17,7 +17,7 @@ const getESM = override => Object.assign({}, esm, override);
 
 const input = 'src/index.js';
 
-const getExternal = () => [...Object.keys(pkg.dependencies), /@react-pdf/];
+const getExternal = () => [...Object.keys(pkg.dependencies), /@react-pdf-18/];
 
 const getPlugins = () => [
   localResolve(),

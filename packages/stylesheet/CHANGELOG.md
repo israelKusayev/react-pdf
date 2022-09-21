@@ -1,4 +1,4 @@
-# @react-pdf/stylesheet
+# @react-pdf-18/stylesheet
 
 ## 4.0.0
 
@@ -9,7 +9,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`a5a933c`](https://github.com/diegomura/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81)]:
-  - @react-pdf/fns@2.0.0
+  - @react-pdf-18/fns@2.0.0
 
 ## 3.2.0
 
@@ -26,7 +26,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`1411d16`](https://github.com/diegomura/react-pdf/commit/1411d162e04ca237bad93729695c363fdf4bdbeb), [`4fadb48`](https://github.com/diegomura/react-pdf/commit/4fadb48983d7269452f89f80c7e341ece859aaee), [`ce8762f`](https://github.com/diegomura/react-pdf/commit/ce8762f6de5c796e69ec5a225c7f3ff9c619a960), [`5d2c308`](https://github.com/diegomura/react-pdf/commit/5d2c3088cf438a8abf1038b14a21117fecf59d57)]:
-  - @react-pdf/types@2.1.0
+  - @react-pdf-18/types@2.1.0
 
 ## 3.0.0
 
@@ -39,8 +39,8 @@
 - [#1838](https://github.com/diegomura/react-pdf/pull/1838) [`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de) Thanks [@diegomura](https://github.com/diegomura)! - feat: create fns package
 
 - Updated dependencies [[`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de), [`fe0f214`](https://github.com/diegomura/react-pdf/commit/fe0f214dbbf2f632b852ebfe65f886ecc4dd6953)]:
-  - @react-pdf/fns@1.0.0
-  - @react-pdf/types@2.0.9
+  - @react-pdf-18/fns@1.0.0
+  - @react-pdf-18/types@2.0.9
 
 ## 2.1.0
 
@@ -55,4 +55,4 @@
 - [#1581](https://github.com/diegomura/react-pdf/pull/1581) [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca) Thanks [@jeetiss](https://github.com/jeetiss)! - added changelog with changesets
 
 - Updated dependencies [[`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca)]:
-  - @react-pdf/types@2.0.8
+  - @react-pdf-18/types@2.0.8

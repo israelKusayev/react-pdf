@@ -1,12 +1,12 @@
-# @react-pdf/render
+# @react-pdf-18/render
 
 ## 3.2.1
 
 ### Patch Changes
 
 - Updated dependencies [[`a5a933c`](https://github.com/diegomura/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81), [`4bb97c3`](https://github.com/diegomura/react-pdf/commit/4bb97c3b92e82d7d7be2698c770f42560c6fcab6)]:
-  - @react-pdf/fns@2.0.0
-  - @react-pdf/textkit@4.1.0
+  - @react-pdf-18/fns@2.0.0
+  - @react-pdf-18/textkit@4.1.0
 
 ## 3.2.0
 
@@ -19,7 +19,7 @@
 - [#1906](https://github.com/diegomura/react-pdf/pull/1906) [`884695b`](https://github.com/diegomura/react-pdf/commit/884695b44feb974f155c83e0714e8e939b4f641b) Thanks [@diegomura](https://github.com/diegomura)! - feat: build textkit with rollup & define public api
 
 - Updated dependencies [[`0fcc594`](https://github.com/diegomura/react-pdf/commit/0fcc594310d5af30ca1e752b3efc7a047e813dcb), [`37a9a74`](https://github.com/diegomura/react-pdf/commit/37a9a747f7677fa05e3ddf5669c0379aa65c1e39), [`884695b`](https://github.com/diegomura/react-pdf/commit/884695b44feb974f155c83e0714e8e939b4f641b)]:
-  - @react-pdf/textkit@4.0.0
+  - @react-pdf-18/textkit@4.0.0
 
 ## 3.1.0
 
@@ -46,7 +46,7 @@
 - [#1859](https://github.com/diegomura/react-pdf/pull/1859) [`810f459`](https://github.com/diegomura/react-pdf/commit/810f45904e9abeaff5583ed4ceb6d77e123bbaea) Thanks [@diegomura](https://github.com/diegomura)! - feat: build render package as ES module
 
 - Updated dependencies [[`1411d16`](https://github.com/diegomura/react-pdf/commit/1411d162e04ca237bad93729695c363fdf4bdbeb), [`4fadb48`](https://github.com/diegomura/react-pdf/commit/4fadb48983d7269452f89f80c7e341ece859aaee), [`ce8762f`](https://github.com/diegomura/react-pdf/commit/ce8762f6de5c796e69ec5a225c7f3ff9c619a960), [`5d2c308`](https://github.com/diegomura/react-pdf/commit/5d2c3088cf438a8abf1038b14a21117fecf59d57)]:
-  - @react-pdf/types@2.1.0
+  - @react-pdf-18/types@2.1.0
 
 ## 3.0.0
 
@@ -61,10 +61,10 @@
 * [#1838](https://github.com/diegomura/react-pdf/pull/1838) [`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de) Thanks [@diegomura](https://github.com/diegomura)! - feat: create fns package
 
 * Updated dependencies [[`e938df0`](https://github.com/diegomura/react-pdf/commit/e938df0857642707b10b7f65f17ed22dc394ac1b), [`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de), [`fe0f214`](https://github.com/diegomura/react-pdf/commit/fe0f214dbbf2f632b852ebfe65f886ecc4dd6953), [`9a2b935`](https://github.com/diegomura/react-pdf/commit/9a2b935cfe173f80425ed87d9f474da271c050d2)]:
-  - @react-pdf/primitives@3.0.0
-  - @react-pdf/fns@1.0.0
-  - @react-pdf/textkit@3.0.0
-  - @react-pdf/types@2.0.9
+  - @react-pdf-18/primitives@3.0.0
+  - @react-pdf-18/fns@1.0.0
+  - @react-pdf-18/textkit@3.0.0
+  - @react-pdf-18/types@2.0.9
 
 ## 2.1.0
 
@@ -79,6 +79,6 @@
 * [#1581](https://github.com/diegomura/react-pdf/pull/1581) [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca) Thanks [@jeetiss](https://github.com/jeetiss)! - added changelog with changesets
 
 * Updated dependencies [[`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca), [`5d2d688`](https://github.com/diegomura/react-pdf/commit/5d2d688e18c830bb96c6e08446437d29f9f9c65f), [`ccf3bf2`](https://github.com/diegomura/react-pdf/commit/ccf3bf22867a9bd49668cdd3543ec32492a40e4b)]:
-  - @react-pdf/primitives@2.0.2
-  - @react-pdf/textkit@2.1.0
-  - @react-pdf/types@2.0.8
+  - @react-pdf-18/primitives@2.0.2
+  - @react-pdf-18/textkit@2.1.0
+  - @react-pdf-18/types@2.0.8

@@ -1,4 +1,4 @@
-import { isNil } from '@react-pdf/fns';
+import { isNil } from '@react-pdf-18/fns';
 
 import clipNode from '../operations/clipNode';
 import parseColor from '../utils/parseColor';

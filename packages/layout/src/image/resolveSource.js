@@ -1,5 +1,5 @@
 /**
- * Resolves `src` to `@react-pdf/image` interface.
+ * Resolves `src` to `@react-pdf-18/image` interface.
  *
  * Also it handles factories and async sources.
  *

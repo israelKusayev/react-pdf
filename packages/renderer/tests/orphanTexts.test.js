@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-curly-brace-presence */
 import React from 'react';
-import { Text, Document, Page } from '@react-pdf/primitives';
+import { Text, Document, Page } from '@react-pdf-18/primitives';
 import renderToImage from './renderComponent';
 
 const emptyString = '';
@@ -28,7 +28,7 @@ describe('renderer', () => {
     expect(image).toMatchImageSnapshot();
   });
 
-  test('boolean', async  () => {
+  test('boolean', async () => {
     const image = await mount(<>{true || <Text>text</Text>}</>);
 
     expect(image).toMatchImageSnapshot();

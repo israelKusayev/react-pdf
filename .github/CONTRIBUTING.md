@@ -76,7 +76,7 @@ yarn link
 In our testing project:
 
 ```sh
-yarn link @react-pdf/renderer
+yarn link @react-pdf-18/renderer
 ```
 
 If everything went well, now your testing project should be running your local react-pdf build and any change in the codebase should be immediately accesible from your project.

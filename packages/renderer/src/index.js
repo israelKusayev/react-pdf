@@ -1,7 +1,7 @@
-import FontStore from '@react-pdf/font';
-import renderPDF from '@react-pdf/render';
-import PDFDocument from '@react-pdf/pdfkit';
-import layoutDocument from '@react-pdf/layout';
+import FontStore from '@react-pdf-18/font';
+import renderPDF from '@react-pdf-18/render';
+import PDFDocument from '@react-pdf-18/pdfkit';
+import layoutDocument from '@react-pdf-18/layout';
 
 import createRenderer from './renderer';
 import { version } from '../package.json';
